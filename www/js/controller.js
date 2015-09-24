@@ -10,4 +10,6 @@ angular.module('lector.controller',['ionic','ngCordova'])
 			alert(error);
 		});
 	}
+
+	
 });
